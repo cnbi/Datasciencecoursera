@@ -7,3 +7,4 @@ The files are the following:
 - run_analysis.R : Script with each step 
 - CodeBook.md : Code book with description if the data, variable and the procedures.
 - README.md : Description of the files in the repo.
+- second_db.txt : Table with tidy data set.
